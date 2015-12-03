@@ -1,0 +1,65 @@
+.btn, .btn-primary, .btn-lg {
+	background-color: #233E47;
+	border-color: #233E47;
+}
+
+#clkbtn:hover {
+	background-color: #526F78;
+	border-color: #526F78;
+}
+
+#clkbtn:active {
+	background-color: #526F78;
+	border-color: #526F78;
+}
+
+#drpdwn > li > a:hover {
+	background-color: #233E47;
+}
+
+.navbar-default {
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	color: #385660;
+	
+}
+
+#navbrnd:hover {
+	background-color: #385660;
+	color: #FFFFFF;
+}
+
+#hvrchnge:hover {
+	background-color: #385660;
+	color: #FFFFFF;	
+}
+
+#brdnav {
+	color: #700003;
+}
+
+#pnl {
+	background-color: #FFFFFF;
+	color: #233E47;
+	border-color: #233E47;
+}
+
+#pnlhding {
+	background-color: #700003; 
+	border-color: #233E47;
+}
+
+.navbar .nav > li {
+	font-size: .83em;
+}
+
+.dropdown-menu>li>a:hover, 
+.dropdown-menu>li>a:focus, 
+.dropdown-submenu:hover>a, 
+.dropdown-submenu:focus>a 
+{
+   filter: none;
+}
+
+
+
